@@ -32,8 +32,8 @@ miCancion.dameAutor()
 print 'Titulo: ', miCancion.titulo
 print 'Autor: ', miCancion.autor
 
-miCancion.pon_titulo("hola")
-miCancion.pon_autor("caracola")
+miCancion.pon_titulo("20 de Abril")
+miCancion.pon_autor("Celtas Cortos")
 
 print 'Titulo: ', miCancion.titulo
 print 'Autor: ', miCancion.autor
